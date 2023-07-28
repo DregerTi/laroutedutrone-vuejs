@@ -6,7 +6,7 @@ import UserComment from "@/components/molecules/UserComment.vue";
 </script>
 
 <template>
-  <main class="container-lite">
+  <main class="container-lite" v-track="'5f8lb0t87j'">
       <div class="toilet-bloc">
         <header>
           <div class="toilet-pictures-bloc">

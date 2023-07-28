@@ -11,7 +11,7 @@ import ArticleImgBloc from "@/components/molecules/ArticleImgBloc.vue";
       <h1>
         Bienvenue sur La Route du Trône, afin de trouver le meilleur trône autour de toi.
       </h1>
-      <CtaButton value="Touves ton trône maintenant !" fill/>
+      <CtaButton v-track="'kypqo0m928'" value="Touves ton trône maintenant !" fill/>
     </section>
     <TextImgBloc img="src/assets/images/caca.png" text="La meilleure plateforme quand tu as une envie pressante, et que tu ne sais pas où aller."/>
     <h2>
